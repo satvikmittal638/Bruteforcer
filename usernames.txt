@@ -1,0 +1,408 @@
+Name: ARNAV BISHT
+                                
+Class:  PREP-JR D 
+Username: 20210111
+Password: student123
+
+Name: AADIPT CHAUHAN
+                                
+Class:  PREP-JR C 
+Username: 20210120
+Password: student123
+
+Name: TVISHA
+                                
+Class:  PREP-JR H 
+Username: 20210122
+Password: student123
+
+Name: REYANSH GARG
+                                
+Class:  PREP-JR F 
+Username: 20210140
+Password: student123
+
+Name: DHAIRYA SHIKWAL
+                                
+Class:  PREP-JR E 
+Username: 20210143
+Password: student123
+
+Name: AVYAANSH SINGH
+                                
+Class:  PREP-JR I 
+Username: 20210150
+Password: student123
+
+Name: ASHWI
+                                
+Class:  PREP-JR G 
+Username: 20210174
+Password: student123
+
+Name: VANYA UPADHYAY
+                                
+Class:  PREP-JR A 
+Username: 20210191
+Password: student123
+
+Name: PRASIDHI MITTAL
+                                
+Class:  PREP-JR G 
+Username: 20210198
+Password: student123
+
+Name: ARYA CHAUHAN
+                                
+Class:  PREP-JR G 
+Username: 20210224
+Password: student123
+
+Name: AMREEN KAUR DHILLON
+                                
+Class:  PREP-JR J 
+Username: 20210232
+Password: student123
+
+Name: RUDRA VASHISHTHA
+                                
+Class:  PREP-JR C 
+Username: 20210234
+Password: student123
+
+Name: VISHW BARA
+                                
+Class:  PREP-JR A 
+Username: 20210255
+Password: student123
+
+Name: VEDIKA CHAUHAN
+                                
+Class:  PREP-JR E 
+Username: 20210257
+Password: student123
+
+Name: SOMYA RAWAT
+                                
+Class:  PREP-JR I 
+Username: 20210268
+Password: student123
+
+Name: HITANSHI RAWAT
+                                
+Class:  PREP-JR I 
+Username: 20210269
+Password: student123
+
+Name: VYAKHYA PANDIT
+                                
+Class:  PREP-JR J 
+Username: 20210273
+Password: student123
+
+Name: ARNAV SINGH SURYA
+                                
+Class:  PREP-JR C 
+Username: 20210308
+Password: student123
+
+Name: MOHAMMAD ZIDAN ALI
+                                
+Class:  PREP-JR I 
+Username: 20210317
+Password: student123
+
+Name: ADVITH GARG
+                                
+Class:  PREP-JR D 
+Username: 20210336
+Password: student123
+
+Name: ANU
+                                
+Class:  PREP-JR C 
+Username: 20210344
+Password: student123
+
+Name: GAURVI MITTAL
+                                
+Class:  PREP-JR C 
+Username: 20210367
+Password: student123
+
+Name: PARTH ARYA
+                                
+Class:  PREP-JR E 
+Username: 20210372
+Password: student123
+
+Name: SHAI SRIVASTAVA
+                                
+Class:  PREP-SR A 
+Username: 20210379
+Password: student123
+
+Name: MONISHA SRIVASTAVA
+                                
+Class:  III A 
+Username: 20210380
+Password: student123
+
+Name: VAIDEHI RAWAT
+                                
+Class:  PREP-JR I 
+Username: 20210382
+Password: student123
+
+Name: AAVYA
+                                
+Class:  PREP-JR B 
+Username: 20210387
+Password: student123
+
+Name: RAYANSH
+                                
+Class:  PREP-JR A 
+Username: 20210406
+Password: student123
+
+Name: KAIVALYA SINGH ASWAL
+                                
+Class:  IV E 
+Username: 20210410
+Password: student123
+
+Name: SHREYAN BHATKOTI
+                                
+Class:  VIII C 
+Username: 20210459
+Password: student123
+
+Name: VANYA CHOUDHARY
+                                
+Class:  PREP-JR I 
+Username: 20210460
+Password: student123
+
+Name: DRISHTI ARORA
+                                
+Class:  IV F 
+Username: 20210494
+Password: student123
+
+Name: ABIGAIL FREDERICK
+                                
+Class:  IV E 
+Username: 20210495
+Password: student123
+
+Name: KIAAN CHAUDHARY
+                                
+Class:  PREP-JR E 
+Username: 20210500
+Password: student123
+
+Name: ARPITA RAWAT
+                                
+Class:  V F 
+Username: 20210503
+Password: student123
+
+Name: KSHITIJ SAINI
+                                
+Class:  IV F 
+Username: 20210528
+Password: student123
+
+Name: ADITYA SINGH
+                                
+Class:  IV G 
+Username: 20210533
+Password: student123
+
+Name: ISHITA SINGH
+                                
+Class:  VII E 
+Username: 20210534
+Password: student123
+
+Name: VIVIDHA SINGH CHAUHAN
+                                
+Class:  PREP-SR H 
+Username: 20210550
+Password: student123
+
+Name: ANANT AGARWAL
+                                
+Class:  PREP-JR H 
+Username: 20210551
+Password: student123
+
+Name: MUDIT SHARMA
+                                
+Class:  PREP-JR B 
+Username: 20210556
+Password: student123
+
+Name: ARPIT SINGH CHAUHAN
+                                
+Class:  PREP-JR C 
+Username: 20210557
+Password: student123
+
+Name: BHAVYA ARORA
+                                
+Class:  PREP-JR I 
+Username: 20210566
+Password: student123
+
+Name: LAVANYA PANDIT
+                                
+Class:  PREP-SR G 
+Username: 20210585
+Password: student123
+
+Name: YASH NAUDIYAL
+                                
+Class:  V A 
+Username: 20210597
+Password: student123
+
+Name: PRATEEK SINGH
+                                
+Class:  IX A 
+Username: 20210598
+Password: student123
+
+Name: ARYA BHATIA
+                                
+Class:  VIII I 
+Username: 20210642
+Password: student123
+
+Name: JAIMINI KASHYAP
+                                
+Class:  PREP-JR D 
+Username: 20210664
+Password: student123
+
+Name: SARTHAK BHATKOTI
+                                
+Class:  III J 
+Username: 20210676
+Password: student123
+
+Name: ANAY VASHISTHA
+                                
+Class:  PREP-SR B 
+Username: 20210694
+Password: student123
+
+Name: AKSHITA SINGH
+                                
+Class:  VIII F 
+Username: 20210726
+Password: student123
+
+Name: REYAANSH
+                                
+Class:  PREP-SR F 
+Username: 20210727
+Password: student123
+
+Name: DEVU MAHANT
+                                
+Class:  I D 
+Username: 20210735
+Password: student123
+
+Name: AADHYA CHAUHAN
+                                
+Class:  PREP-JR C 
+Username: 20210739
+Password: student123
+
+Name: AARYAV RATURI
+                                
+Class:  PREP-SR H 
+Username: 20210740
+Password: student123
+
+Name: SHREYA SINGHAL
+                                
+Class:  PREP-JR I 
+Username: 20210752
+Password: student123
+
+Name: ATHARV MEHTA
+                                
+Class:  IV B 
+Username: 20210768
+Password: student123
+
+Name: AARADHYA DHIMAN
+                                
+Class:  PREP-JR I 
+Username: 20210773
+Password: student123
+
+Name: YUVANSH SAINI
+                                
+Class:  PREP-SR I 
+Username: 20210786
+Password: student123
+
+Name: BHOOMIKA MODI
+                                
+Class:  XI A 
+Username: 20210789
+Password: student123
+
+Name: RIYA CHAUHAN
+                                
+Class:  IX B 
+Username: 20210800
+Password: student123
+
+Name: SARA CHAUHAN
+                                
+Class:  XI A 
+Username: 20210805
+Password: student123
+
+Name: KUNJ YADAV
+                                
+Class:  V C 
+Username: 20210806
+Password: student123
+
+Name: KAVYANSH CHAUHAN
+                                
+Class:  PREP-JR F 
+Username: 20210807
+Password: student123
+
+Name: MEHAK BISHT
+                                
+Class:  PREP-JR J 
+Username: 20210810
+Password: student123
+
+Name: NAVYA PAL
+                                
+Class:  I A 
+Username: 20210812
+Password: student123
+
+Name: SHIVAKSHI KANSAL
+                                
+Class:  XI A 
+Username: 20210816
+Password: student123
+
+Name: NAITIK CHAUHAN
+                                
+Class:  PREP-JR F 
+Username: 20210826
+Password: student123
+
